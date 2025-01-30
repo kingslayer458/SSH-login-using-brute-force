@@ -75,8 +75,8 @@ To secure your SSH server:
 
 ## Screenshot
 ![Brute Force Attack](output1.png)
-![cw1](output2.png)
-![wecw2](output3.png)
+![cw1](output 2.png)
+![wecw2](output 3.png)
 ---
 
 ## License
