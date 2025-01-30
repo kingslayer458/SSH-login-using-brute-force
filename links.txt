@@ -1,0 +1,7 @@
+https://techrrival.com/best-cmd-commands-for-windows/
+
+https://www.digitalcitizen.life/best-cmd-commands/
+
+https://petri.com/the-ultimate-guide-to-installing-openssh-on-windows/
+
+https://www.cyberciti.biz/faq/how-to-install-ssh-on-ubuntu-linux-using-apt-get/#:~:text=The%20procedure%20to%20install%20ssh%20command%20on%20Ubuntu,it%20by%20typing%20from%20the%20CLIENT%3A%20ssh%20user%40server-ip-here
